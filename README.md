@@ -1,0 +1,1 @@
+# classificador_algarismos_manuscritos
